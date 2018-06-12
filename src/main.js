@@ -20,7 +20,9 @@ Vue.use(resource) //引入請求
 Vue.use(VueAwesomeSwiper)//全局注册swiper插件
 Vue.use(VueVideoPlayer)
 Vue.config.productionTip = false;
-window.getHost = "http://swsy.zhunedu.com/swsy/";
+//window.getHost = "http://swsy.zhunedu.com/swsy/";
+window.getHost = "http://br.shdjg.net/";
+
 //window.getHost = "http://123.59.211.161:7000/swsy/";
 //window.getHost = "http://192.168.1.218:7000/"
 
